@@ -25,7 +25,20 @@ Graduated in Information system
 ![Twitter URL](https://img.shields.io/twitter/url?color=%23FF1493&label=instagram&logo=instagram&style=for-the-badge&url=https://www.instagram.com/w.allison.sousa/) 
 
 
+ [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/USERNAME"
 
+ [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "//github.com/USERNAME"
+
+ [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "//twitter.com/USERNAME"
 
 template by https://github.com/caroline-rodrigues
 
