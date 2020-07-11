@@ -1,4 +1,4 @@
-<img align="right" width="350" height="350" src="http://www.masgamers.com/wp-content/uploads/2017/11/cuphead-bird.gif">
+<img align="right" width="350" height="350" src="https://github.com/FranciscoWallison/FranciscoWallison/blob/master/cuphead-bird.gif">
 
 
 ## 👋  Hy, my name is Francisco Wallison:  
