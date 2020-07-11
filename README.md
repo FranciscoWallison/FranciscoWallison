@@ -1,4 +1,4 @@
-<img align="right" width="500" height="350" src="https://github.com/FranciscoWallison/FranciscoWallison/blob/master/cuphead-bird.gif">
+<img align="right" width="400" height="350" src="https://github.com/FranciscoWallison/FranciscoWallison/blob/master/cuphead-bird.gif">
 
 
 ## 👋  Hy, my name is Francisco Wallison:  
