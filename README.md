@@ -1,6 +1,3 @@
-
-
-
 ## 👋  Hy, my name is Francisco Wallison:  
 
 Graduated in Information system
