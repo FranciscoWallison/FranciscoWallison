@@ -3,8 +3,6 @@
 Graduated in Information system
 , Developer with 5+ years of experience in back-end, projecting and maintaining Web applications using HTML, CSS, JS, Angular, React-Native, Vue, IONIC, PHP, C#, .NET, Laravel and others frameworks.
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=FranciscoWallison&hide=[%22issues%22,%22prs%22,%22contribs%22]&show_icons=true&theme=default)](https://github.com/FranciscoWallison)
-
 ## About Me
 
 🌎 I'm from Fortaleza,CE - Brazil
@@ -13,13 +11,23 @@ Graduated in Information system
 
 ❤️ I love travelling 🛫🛬
 
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=FranciscoWallison&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
+</details>
 
-![profile-summary-for-github](https://github.com/FranciscoWallison/FranciscoWallison/blob/master/Sem%20t%C3%ADtulo.png)
+<details>
+  <summary>:zap: Languages Used</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoWallison&layout=compact&bg_color=ffffff&text_color=333333">
+</details>
+<br/>
 
 
-## My social links:
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) wallison-francisco](https://www.linkedin.com/in/wallison-francisco/)
-
+<details>
+  <summary>:zap: My social links</summary>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallison-francisco/)](https://www.linkedin.com/in/wallison-francisco/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/chicowall)](https://www.twitter.com/chicowall)
+</details>
 
 template by https://github.com/caroline-rodrigues
 
