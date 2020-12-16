@@ -28,4 +28,5 @@ Graduated in Information system
 
 #### My social links
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallison-francisco/)](https://www.linkedin.com/in/wallison-francisco/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/chicowall)](https://www.twitter.com/chicowall)
+<a href="https://twitter.com/chicowall"><img src="https://img.shields.io/twitter/follow/chicowall?label=Twitter&style=social" alt="Twitter"></a>
+
