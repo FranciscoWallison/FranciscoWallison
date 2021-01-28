@@ -12,6 +12,11 @@ Graduated in Information system
 ❤️ I love travelling 🛫🛬
 
 <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=FranciscoWallison&theme=midnight-purple&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=20"/>
+  <br/>
+</p>
+
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=FranciscoWallison&theme=highcontrast&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=20"/>
     </p>
     <p align="center">
@@ -19,10 +24,6 @@ Graduated in Information system
 </p>
 
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=FranciscoWallison&theme=midnight-purple&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=20"/>
-  <br/>
-</p>
 
 #### My social links
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallison-francisco/)](https://www.linkedin.com/in/wallison-francisco/)
