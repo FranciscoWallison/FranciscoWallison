@@ -11,9 +11,14 @@ Graduated in Information system
 
 ❤️ I love travelling 🛫🛬
 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=FranciscoWallison&theme=highcontrast&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=20"/>
+    </p>
+    <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoWallison&theme=highcontrast&layout=compact&show_icons=true&title_color=6e40c9&icon_color=6e40c9"/>
+</p>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FranciscoWallison&theme=highcontrast&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=20)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoWallison&theme=highcontrast&layout=compact&show_icons=true&title_color=6e40c9&icon_color=6e40c9)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=FranciscoWallison&theme=midnight-purple&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=20"/>
   <br/>
