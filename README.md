@@ -12,9 +12,9 @@ Graduated in Information system
 ❤️ I love travelling 🛫🛬
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FranciscoWallison&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=20)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoWallison&theme=dark&layout=compact&show_icons=true&title_color=6e40c9&icon_color=6e40c9)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FranciscoWallison&theme=highcontrast&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=20)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoWallison&theme=highcontrast&layout=compact&show_icons=true&title_color=6e40c9&icon_color=6e40c9)](https://github.com/anuraghazra/github-readme-stats)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=FranciscoWallison&theme=highcontrast&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=20)
 
 #### My social links
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallison-francisco/)](https://www.linkedin.com/in/wallison-francisco/)
