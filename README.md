@@ -25,7 +25,7 @@ Graduated in Information system
     <img src="https://github-readme-stats.vercel.app/api?username=FranciscoWallison&theme=highcontrast&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=20"/>
 
 
-<h2 align='left'>#Github Points: :octocat:🏆️</h2>
+<h2 align='left'>Github Points:</h2>
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=FranciscoWallison&theme=onedark&margin-w=9&hide_border=true" alt="FranciscoWallison points"/>
 </p>
