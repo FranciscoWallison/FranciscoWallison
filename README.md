@@ -11,19 +11,19 @@ Graduated in Information system
 
 ❤️ I love travelling 🛫🛬
 
-<p align="center">
+<p align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=FranciscoWallison&theme=midnight-purple&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=20"/>
   <br/>
 </p>
 
 </p>
-<p align="center">
-    <imgwidth="350" align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoWallison&theme=highcontrast&layout=compact&show_icons=true&title_color=6e40c9&icon_color=6e40c9&langs_count=20"/>
+<p align="right">
+<img width="350" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoWallison&langs_count=20&theme=highcontrast&show_icons=true&title_color=6e40c9&icon_color=6e40c"/>
 </p>
 
-<p align="center">
+<p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=FranciscoWallison&theme=highcontrast&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=20"/>
-
+</p>
 
 <h2 align='left'>Github Points:</h2>
 <p align="center">
