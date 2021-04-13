@@ -20,10 +20,4 @@ Graduated in Information system
   
   
   
-  
-
-        <img src="https://github-profile-trophy.vercel.app/?username=FranciscoWallison&theme=onedark&margin-w=9&hide_border=true" alt="FranciscoWallison points"/>
-
-#### My social links 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallison-francisco/)](https://www.linkedin.com/in/wallison-francisco/) <a href="https://twitter.com/chicowall"><img src="https://img.shields.io/twitter/follow/chicowall?label=Twitter&style=social" alt="Twitter"></a>
 
