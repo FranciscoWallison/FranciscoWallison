@@ -18,7 +18,7 @@ Graduated in Information system
 
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoWallison&theme=highcontrast&layout=compact&show_icons=true&title_color=6e40c9&icon_color=6e40c9"/>
+    <imgwidth="350" align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoWallison&theme=highcontrast&layout=compact&show_icons=true&title_color=6e40c9&icon_color=6e40c9&langs_count=20"/>
 </p>
 
 <p align="center">
