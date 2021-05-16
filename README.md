@@ -9,7 +9,7 @@ Graduated in Information system
 
 🎮 I like to play animes and video games
 
-❤️ I love travelling 🛫🛬
+❤️ I love travelling 🛫🛬 
 
 <p align="center">
     <img align="left"  src="https://github-readme-streak-stats.herokuapp.com/?user=FranciscoWallison&theme=midnight-purple&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=20"/>
