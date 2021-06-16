@@ -17,9 +17,3 @@ Graduated in Information system
 <img align="left"  src="https://github-readme-stats.vercel.app/api?username=FranciscoWallison&theme=highcontrast&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=20"/>
 </p>
 <br/>
-
-<div> 
- 
-  ![Snake animation](https://github.com/FranciscoWallison/FranciscoWallison/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
