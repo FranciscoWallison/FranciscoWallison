@@ -13,9 +13,7 @@ Graduated in Information system
 
 
 [Linkedin](https://www.linkedin.com/in/wallison-francisco)
-
 [Shawee](https://app.shawee.io/@franciscowallison)
-
 [Youtube](https://www.youtube.com/channel/UCg7y9gwz_X-APd66kqs5sMg)
 
 
