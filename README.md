@@ -12,7 +12,7 @@ Graduated in Information system
 ❤️ I love travelling 🛫🛬 
 
 
-## Social networks
+## :monocle_face: Social networks
 
 [Linkedin](https://www.linkedin.com/in/wallison-francisco)
 
