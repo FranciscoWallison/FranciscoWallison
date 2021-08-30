@@ -29,8 +29,7 @@ Graduated in Information system
 </p>
 <br/>
 
-![Metrics](https://metrics.lecoq.io/FranciscoWallison)
-
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=FranciscoWallison&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+![Metrics](https://metrics.lecoq.io/FranciscoWallison)
 
