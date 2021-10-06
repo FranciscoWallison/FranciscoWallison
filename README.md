@@ -21,7 +21,6 @@ Graduated in Information system
 
 [docker-hub](https://hub.docker.com/)
 
-
 ## :woman_technologist: Statistics
 
 <p align="center">
