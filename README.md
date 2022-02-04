@@ -21,6 +21,9 @@ Graduated in Information system
 
 [docker-hub](https://hub.docker.com/)
 
+<img src="https://www.codewars.com/users/FranciscoWallison/badges/micro" width="200" />
+
+
 ## :woman_technologist: Statistics
 
 <p align="center">
