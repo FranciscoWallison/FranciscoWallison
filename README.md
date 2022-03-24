@@ -19,7 +19,7 @@ Graduated in Information system
 
 [Youtube](https://www.youtube.com/channel/UCg7y9gwz_X-APd66kqs5sMg)
 
-[docker-hub](https://hub.docker.com/)
+[Docker-hub](https://hub.docker.com/)
 
 <img src="https://www.codewars.com/users/FranciscoWallison/badges/micro" width="200" />
 
