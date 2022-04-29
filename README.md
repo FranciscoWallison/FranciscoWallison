@@ -30,4 +30,3 @@ Graduated in Information system
 
 </p>
 <br/>
-
