@@ -9,7 +9,7 @@ Graduated in Information system
 
 🎮 I like to play animes and video games
 
-❤️ I love travelling 🛫🛬 
+❤️ I love travelling 🛫🛬
 
 ## :monocle_face: Social Networks
 
