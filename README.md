@@ -7,7 +7,7 @@ Graduated in Information system
 
 🌎 I'm from Fortaleza,CE - Brazil
 
-🎮 I like to play animes and video games
+🎮 I like to play, animes and video games
 
 ❤️ I love travelling 🛫🛬
 
