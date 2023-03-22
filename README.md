@@ -25,7 +25,6 @@ Graduated in Information system
 
 <img src="https://www.codewars.com/users/FranciscoWallison/badges/micro" width="200" />
 
-
 ## :woman_technologist: Statistics
 
 <p align="center">
