@@ -1,7 +1,7 @@
 ## 👋  Hy, my name is Francisco Wallison:
 
 Graduated in Information system
-, Developer with 9+ years of experience in back-end, projecting and maintaining Web applications using HTML, CSS, JavaScript, React-Native, Vue, PHP, C#, .NET, Laravel, nodeJs, Sql Server, Mysql, MariaDB and others frameworks.
+, Developer with 9+ years of experience in back-end, projecting and maintaining Web applications using HTML, CSS, JavaScript, React-Native, Vue, React, PHP, C#, .NET, Laravel, nodeJs, Sql Server, Mysql, MariaDB and others frameworks.
 
 ## About Me
 
