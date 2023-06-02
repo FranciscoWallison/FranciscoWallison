@@ -15,10 +15,6 @@ _______________________
 
 [Linkedin](https://www.linkedin.com/in/wallison-francisco)
 
-````
-off
-[Shawee](https://app.shawee.io/@franciscowallison)
-````
 [Youtube](https://www.youtube.com/channel/UCg7y9gwz_X-APd66kqs5sMg)
 
 [Docker-hub](https://hub.docker.com/u/chicowall)
