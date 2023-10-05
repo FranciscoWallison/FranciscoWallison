@@ -22,7 +22,6 @@ _______________________
 [Artstation 3D](https://franciscowallison8.artstation.com)
 
 <img src="https://www.codewars.com/users/FranciscoWallison/badges/micro" width="200" />
-
 ## Statistics
 
 <p align="center">
