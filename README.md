@@ -23,7 +23,6 @@ _______________________
 <img src="https://www.codewars.com/users/FranciscoWallison/badges/micro" width="200" />
 
 ## Statistics
-
 <p align="center">
     <img align="left"  src="https://github-readme-streak-stats.herokuapp.com/?user=FranciscoWallison&theme=midnight-purple&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=20"/>
 </p>
