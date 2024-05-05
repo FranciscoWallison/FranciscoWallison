@@ -24,7 +24,7 @@ _______________________
 
 [Artstation 3D](https://franciscowallison8.artstation.com)
 
-discord : CHICOWALL#1120
+discord CHICOWALL#1120
 
 <img src="https://www.codewars.com/users/FranciscoWallison/badges/micro" width="200" />
 
