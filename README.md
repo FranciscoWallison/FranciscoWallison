@@ -34,4 +34,3 @@ discord: CHICOWALL#1120
 </p>
 
 <br/>
-
