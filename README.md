@@ -27,6 +27,12 @@ _______________________
 discord: CHICOWALL#1120
 
 ## Musicas de IA
+1 #
+
+https://github.com/FranciscoWallison/FranciscoWallison/assets/19413241/9b3930ef-49f4-4c2f-8df9-e21dfd777acf
+
+2 #
+
 
 https://github.com/FranciscoWallison/FranciscoWallison/assets/19413241/987213c3-1d62-4844-a74f-31c2bddb72c4
 
