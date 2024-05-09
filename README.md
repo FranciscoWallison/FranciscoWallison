@@ -32,15 +32,7 @@ discord: CHICOWALL#1120
 
 
 
-https://github.com/FranciscoWallison/FranciscoWallison/assets/19413241/f114e1df-a84f-4594-bb5b-103434b34484
-
-
-
-
-2 #
-
-
-https://github.com/FranciscoWallison/FranciscoWallison/assets/19413241/987213c3-1d62-4844-a74f-31c2bddb72c4
+https://github.com/FranciscoWallison/FranciscoWallison/assets/19413241/188b8dd3-d075-4ee2-8a43-cccb54f04b7f
 
 
 
