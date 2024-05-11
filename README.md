@@ -27,13 +27,20 @@ _______________________
 discord: CHICOWALL#1120
 
 ## [Musicas de IA](https://suno.com/@franciscowallison)
-1 #
+1 Bug em loop#
 
 
 
 
 https://github.com/FranciscoWallison/FranciscoWallison/assets/19413241/188b8dd3-d075-4ee2-8a43-cccb54f04b7f
 
+
+
+2 DeadLine#
+
+
+
+https://github.com/FranciscoWallison/FranciscoWallison/assets/19413241/b76c2ca6-95dd-4413-97ec-4dd679553c4b
 
 
 <img src="https://www.codewars.com/users/FranciscoWallison/badges/micro" width="200" />
