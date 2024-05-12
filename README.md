@@ -36,20 +36,6 @@ https://github.com/FranciscoWallison/FranciscoWallison/assets/19413241/188b8dd3-
 
 
 
-2 DeadLine#
-
-
-
-https://github.com/FranciscoWallison/FranciscoWallison/assets/19413241/b76c2ca6-95dd-4413-97ec-4dd679553c4b
-
-
-3 A Minha Rota#
-
-
-
-https://github.com/FranciscoWallison/FranciscoWallison/assets/19413241/806ecfac-0862-4c6c-bfa3-96e71bb4ecd4
-
-
 <img src="https://www.codewars.com/users/FranciscoWallison/badges/micro" width="200" />
 
 ## Statistics
